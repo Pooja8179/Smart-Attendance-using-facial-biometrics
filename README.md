@@ -182,5 +182,5 @@ Project is licensed under the MIT License.
 
 ## 🙌 Credits
 
-Developed by **Upendra Tata** using Dlib, OpenCV, and Flask.
+Developed by using Dlib, OpenCV, and Flask.
 
